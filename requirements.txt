@@ -4,4 +4,4 @@ pytz==2020.1
 h5py==2.10.0
 Keras-Preprocessing==1.1.2
 Keras==2.4.0
-gunicorn
+gunicorn==20.0.4
